@@ -8,9 +8,11 @@
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
+| [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
+| [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
 | [ligné](ligne.md) | מְשֻׁרְטָט/מְשֻׁרְטֶטֶת | meshourtate/meshourtétét | adjectif | 2025-11-02 |
