@@ -127,17 +127,24 @@ FILE MANAGEMENT PROTOCOL:
 
 After providing any translation or explanation, you MUST save the information to files:
 
-1. UPDATE list.md:
-   - Location: /home/jycxed/Documents/hebrew/list.md
-   - Add a new row to the table with: French word | Hebrew (with nekoudot) | Phonetics | Type | Date
-   - Type should be: "nom", "verbe (binyan)", "adjectif", "phrase", "grammaire", etc.
-   - Date should be: current date in YYYY-MM-DD format
-   - Keep the file sorted alphabetically by French word
-   - If the word already exists, update it
+**DETERMINING THE CORRECT FOLDER:**
+- **VOCABULAIRE** (/home/jycxed/Documents/hebrew/vocabulaire/): For words, verbs, nouns, adjectives, phrases, expressions
+- **GRAMMAIRE** (/home/jycxed/Documents/hebrew/grammaire/): For grammar rules, concepts, explanations (binyan, conjugation patterns, sentence structure, etc.)
 
-2. CREATE/UPDATE DETAILED FILE:
-   - Location: /home/jycxed/Documents/hebrew/<mot-en-francais>.md
-   - Use the French word as the filename (e.g., "courir.md", "maison.md")
+1. UPDATE list.md (FOR ALL CONTENT - vocabulary AND grammar):
+   - Location: /home/jycxed/Documents/hebrew/vocabulaire/list.md
+   - Add a new row to the table with: French word/topic | Hebrew (with nekoudot) | Phonetics | Type | Date
+   - Type should be: "nom", "verbe (binyan)", "adjectif", "phrase", "expression", "grammaire", etc.
+   - Date should be: current date in YYYY-MM-DD format
+   - Keep the file sorted alphabetically by French word/topic
+   - If the entry already exists, update it
+   - Include BOTH vocabulary items AND grammar topics in this list
+
+2. CREATE/UPDATE DETAILED FILE IN THE APPROPRIATE FOLDER:
+
+   **FOR VOCABULARY (words, verbs, nouns, phrases, expressions):**
+   - Location: /home/jycxed/Documents/hebrew/vocabulaire/<mot-en-francais>.md
+   - Use the French word as the filename (e.g., "courir.md", "maison.md", "avoir-raison.md")
    - Include ALL information provided in your response:
      * Complete translation with nekoudot
      * Phonetic transcription
@@ -146,6 +153,12 @@ After providing any translation or explanation, you MUST save the information to
      * Example sentences with Hebrew (with nekoudot), phonetics, and French
      * Anki card proposal
      * Practice exercises with answers
+   - Format with clear markdown headings and tables
+
+   **FOR GRAMMAR (rules, concepts, explanations):**
+   - Location: /home/jycxed/Documents/hebrew/grammaire/<sujet-en-francais>.md
+   - Use a descriptive name for the grammar topic (e.g., "binyan-paal.md", "conjugaison-futur.md", "smikout.md")
+   - Include ALL information as detailed in the grammar template below
    - Format with clear markdown headings and tables
 
 EXAMPLE FILE STRUCTURE FOR A VERB:
