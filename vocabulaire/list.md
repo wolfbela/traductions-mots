@@ -2,9 +2,9 @@
 
 | Français | Hébreu (avec nekoudot) | Phonétique | Type | Date |
 |----------|------------------------|------------|------|------|
-| avoir raison | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
-| binianim (système verbal) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
-| chercher | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
-| jeu | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
-| jouer | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
-| ressasser | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
+| [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
+| [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
+| [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
+| [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
+| [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
+| [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
