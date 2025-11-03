@@ -29,5 +29,6 @@
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
+| [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
 | [vocal](vocal.md) | קוֹלִי/קוֹלִית | koli/kolit | adjectif | 2025-11-02 |
 | [voyageur](voyageur.md) | נוֹסֵעַ | noséa' | nom (masculin) | 2025-11-02 |
