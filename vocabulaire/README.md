@@ -24,6 +24,7 @@
 | [message](message.md) | הוֹדָעָה | hoda'ah | nom (féminin) | 2025-11-02 |
 | [papier](papier.md) | נְיָר | neyar | nom (masculin) | 2025-11-03 |
 | [partir](partir.md) | לָצֵאת | latset | verbe (Pa'al) | 2025-11-02 |
+| [possibilité](possibilite.md) | אֶפְשָׁרוּת | efsharout | nom (féminin) | 2025-11-03 |
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
