@@ -5,6 +5,7 @@
 | [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
+| [bloc-notes](bloc-notes.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-03 |
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
@@ -14,6 +15,7 @@
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
+| [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
