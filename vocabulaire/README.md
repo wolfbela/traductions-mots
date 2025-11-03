@@ -2,6 +2,7 @@
 
 | Français | Hébreu (avec nekoudot) | Phonétique | Type | Date |
 |----------|------------------------|------------|------|------|
+| [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
