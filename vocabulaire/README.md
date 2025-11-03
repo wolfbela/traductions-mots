@@ -17,7 +17,9 @@
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
 | [ligné](ligne.md) | מְשֻׁרְטָט/מְשֻׁרְטֶטֶת | meshourtate/meshourtétét | adjectif | 2025-11-02 |
+| [mauvais](mauvais.md) | רַע | ra | adjectif (masculin) | 2025-11-02 |
 | [message](message.md) | הוֹדָעָה | hoda'ah | nom (féminin) | 2025-11-02 |
+| [partir](partir.md) | לָצֵאת | latset | verbe (Pa'al) | 2025-11-02 |
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
