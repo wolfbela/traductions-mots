@@ -5,6 +5,7 @@
 | [adresse](adresse.md) | כְּתֹבֶת | ktovèt | nom (féminin) | 2025-11-04 |
 | [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
+| [bientôt](bientot.md) | בְּקָרוֹב / עוֹד מְעַט / בִּמְהֵרָה | be-karov / od me-at / bimhera | adverbe / locution adverbiale | 2025-11-04 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
 | [bloc-notes](bloc-notes.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-03 |
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
@@ -18,6 +19,7 @@
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
 | [enregistrer](enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
+| [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
