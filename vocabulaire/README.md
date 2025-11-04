@@ -25,11 +25,13 @@
 | [papier](papier.md) | נְיָר | neyar | nom (masculin) | 2025-11-03 |
 | [partir](partir.md) | לָצֵאת | latset | verbe (Pa'al) | 2025-11-02 |
 | [possibilité](possibilite.md) | אֶפְשָׁרוּת | efsharout | nom (féminin) | 2025-11-03 |
+| [spécial](special.md) | מְיֻחָד | meyoukhad | adjectif (Pou'al) | 2025-11-04 |
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
+| [vieux](vieux.md) | זָקֵן | zaken | adjectif | 2025-11-04 |
 | [vocal](vocal.md) | קוֹלִי/קוֹלִית | koli/kolit | adjectif | 2025-11-02 |
 | [voyageur](voyageur.md) | נוֹסֵעַ | noséa' | nom (masculin) | 2025-11-02 |
