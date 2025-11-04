@@ -11,11 +11,13 @@
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
+| [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
 | [heureux](meoushar-heureux.md) | מְאֻשָּׁר | meoushar | adjectif (Pi'el) | 2025-11-04 |
 | [colis](colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
+| [enregistrer](enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
