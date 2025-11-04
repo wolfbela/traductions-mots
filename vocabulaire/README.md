@@ -4,6 +4,7 @@
 |----------|------------------------|------------|------|------|
 | [adresse](adresse.md) | כְּתֹבֶת | ktovèt | nom (féminin) | 2025-11-04 |
 | [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
+| [autre](autre.md) | אַחֵר / עוֹד | akher / od | adjectif / adverbe | 2025-11-04 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [bientôt](bientot.md) | בְּקָרוֹב / עוֹד מְעַט / בִּמְהֵרָה | be-karov / od me-at / bimhera | adverbe / locution adverbiale | 2025-11-04 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
