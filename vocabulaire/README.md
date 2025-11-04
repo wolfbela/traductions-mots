@@ -2,6 +2,7 @@
 
 | Français | Hébreu (avec nekoudot) | Phonétique | Type | Date |
 |----------|------------------------|------------|------|------|
+| [adresse](adresse.md) | כְּתֹבֶת | ktovèt | nom (féminin) | 2025-11-04 |
 | [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
@@ -31,6 +32,7 @@
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
+| [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
