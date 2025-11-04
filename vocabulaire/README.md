@@ -8,6 +8,7 @@
 | [bientôt](bientot.md) | בְּקָרוֹב / עוֹד מְעַט / בִּמְהֵרָה | be-karov / od me-at / bimhera | adverbe / locution adverbiale | 2025-11-04 |
 | [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
 | [bloc-notes](bloc-notes.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-03 |
+| [particule אֶת (et)](../grammaire/particule-et.md) | אֶת | et | grammaire (particule d'objet direct) | 2025-11-04 |
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
@@ -17,9 +18,11 @@
 | [colis](colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
+| [domicile](domicile.md) | דִּירָה / מָעוֹן / בַּיִת | dirah / maon / bayit | nom (féminin/masculin) | 2025-11-04 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
 | [enregistrer](enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
 | [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
+| [enveloppe](enveloppe.md) | מַעֲטָפָה | maatafa | nom (féminin) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
