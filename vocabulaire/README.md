@@ -26,8 +26,10 @@
 | [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
 | [enveloppe](enveloppe.md) | מַעֲטָפָה | maatafa | nom (féminin) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
+| [être prêt](etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
+| [neige](neige.md) | שֶׁלֶג | shèleg | nom (masculin) | 2025-11-04 |
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
 | [ligné](ligne.md) | מְשֻׁרְטָט/מְשֻׁרְטֶטֶת | meshourtate/meshourtétét | adjectif | 2025-11-02 |
@@ -44,6 +46,7 @@
 | [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [solution](solution.md) | פִּתְרוֹן / תַּמְסִיס | pitron / tamsis | nom (masculin) | 2025-11-04 |
+| [spectacle](spectacle.md) | הַצָּגָה / מַחֲזֶה / מוֹפָע | hatsa'gah / maḥazeh / mofa' | nom (féminin/masculin) | 2025-11-04 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
 | [vieux](vieux.md) | זָקֵן | zaken | adjectif | 2025-11-04 |
