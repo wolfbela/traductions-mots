@@ -21,6 +21,7 @@
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [domicile](domicile.md) | דִּירָה / מָעוֹן / בַּיִת | dirah / maon / bayit | nom (féminin/masculin) | 2025-11-04 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
+| [opinion](opinion.md) | דֵּעָה | de'ah | nom (féminin) | 2025-11-04 |
 | [enregistrer](enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
 | [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
 | [enveloppe](enveloppe.md) | מַעֲטָפָה | maatafa | nom (féminin) | 2025-11-04 |
@@ -42,6 +43,7 @@
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
+| [solution](solution.md) | פִּתְרוֹן / תַּמְסִיס | pitron / tamsis | nom (masculin) | 2025-11-04 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
 | [vieux](vieux.md) | זָקֵן | zaken | adjectif | 2025-11-04 |
