@@ -49,6 +49,7 @@
 | [spectacle](spectacle.md) | הַצָּגָה / מַחֲזֶה / מוֹפָע | hatsa'gah / maḥazeh / mofa' | nom (féminin/masculin) | 2025-11-04 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
+| [vie](vie.md) | חַיִּים | khaïm | nom (masculin, toujours pluriel) | 2025-11-04 |
 | [vieux](vieux.md) | זָקֵן | zaken | adjectif | 2025-11-04 |
 | [vocal](vocal.md) | קוֹלִי/קוֹלִית | koli/kolit | adjectif | 2025-11-02 |
 | [voyage](voyage.md) | מַסָּע | masa | nom (masculin) | 2025-11-04 |
