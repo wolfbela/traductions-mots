@@ -12,8 +12,10 @@
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
+| [clair/claire](clair-claire.md) | בָּהִיר/בְּהִירָה | bahir/behira | adjectif | 2025-11-05 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
 | [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
+| [différent](different.md) | שׁוֹנֶה | shoné | adjectif | 2025-11-05 |
 | [heureux](meoushar-heureux.md) | מְאֻשָּׁר | meoushar | adjectif (Pi'el) | 2025-11-04 |
 | [colis](colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
