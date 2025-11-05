@@ -42,6 +42,7 @@
 | [prendre](prendre.md) | לָקַחַת | lakakhat | verbe (Pa'al) | 2025-11-04 |
 | [spécial](special.md) | מְיֻחָד | meyoukhad | adjectif (Pou'al) | 2025-11-04 |
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
+| [repas](repas-arouhat.md) | אֲרוּחָה / אֲרוּחַת | arouḥah / arouḥat | nom (féminin) - forme absolue/construite | 2025-11-05 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [sans](sans.md) | בְּלִי | bli | préposition | 2025-11-05 |
