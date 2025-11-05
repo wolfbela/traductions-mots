@@ -12,6 +12,7 @@
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
+| [changer](changer.md) | לְשַׁנּוֹת | leshanot | verbe (Pi'el) | 2025-11-05 |
 | [clair/claire](clair-claire.md) | בָּהִיר/בְּהִירָה | bahir/behira | adjectif | 2025-11-05 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
 | [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
@@ -57,6 +58,7 @@
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
 | [trouver](trouver.md) | לִמְצֹא | limtso | verbe (Pa'al) | 2025-11-05 |
+| [varié](varie.md) | מְגֻוָּן | megouvan | adjectif (Pou'al) | 2025-11-05 |
 | [vie](vie.md) | חַיִּים | khaïm | nom (masculin, toujours pluriel) | 2025-11-04 |
 | [vieux](vieux.md) | זָקֵן | zaken | adjectif | 2025-11-04 |
 | [vocal](vocal.md) | קוֹלִי/קוֹלִית | koli/kolit | adjectif | 2025-11-02 |
