@@ -60,6 +60,7 @@
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [solution](solution.md) | פִּתְרוֹן / תַּמְסִיס | pitron / tamsis | nom (masculin) | 2025-11-04 |
 | [spectacle](spectacle.md) | הַצָּגָה / מַחֲזֶה / מוֹפָע | hatsa'gah / maḥazeh / mofa' | nom (féminin/masculin) | 2025-11-04 |
+| [sujet](sujet.md) | נוֹשֵׂא | nosé | nom (masculin) | 2025-11-05 |
 | [tard](tard.md) | מְאֻחָר | meouḥar | adverbe | 2025-11-05 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |

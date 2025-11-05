@@ -69,6 +69,55 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 **Infinitif :** לְהִרְשָׁם (lehirsham)
 **Sens :** S'enregistrer, s'inscrire, se faire enregistrer (hôtel, événement)
 
+### Conjugaison au présent (הֹוֶה)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי/אַתָּה/הוּא | נִרְשָׁם | nirsham | je m'enregistre/tu t'enregistres (m)/il s'enregistre |
+| אַתְּ/הִיא | נִרְשֶׁמֶת | nirshémet | tu t'enregistres (f)/elle s'enregistre |
+| אֲנַחְנוּ | נִרְשָׁמִים | nirshamim | nous nous enregistrons |
+| אַתֶּם | נִרְשָׁמִים | nirshamim | vous vous enregistrez (m) |
+| אַתֶּן | נִרְשָׁמוֹת | nirshamot | vous vous enregistrez (f) |
+| הֵם | נִרְשָׁמִים | nirshamim | ils s'enregistrent |
+| הֵן | נִרְשָׁמוֹת | nirshamot | elles s'enregistrent |
+
+### Conjugaison au passé (עָבָר)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | נִרְשַׁמְתִּי | nirshámti | je me suis enregistré(e) |
+| אַתָּה | נִרְשַׁמְתָּ | nirshámta | tu t'es enregistré (m) |
+| אַתְּ | נִרְשַׁמְתְּ | nirshamt | tu t'es enregistrée (f) |
+| הוּא | נִרְשַׁם | nirsham | il s'est enregistré |
+| הִיא | נִרְשְׁמָה | nirshéma | elle s'est enregistrée |
+| אֲנַחְנוּ | נִרְשַׁמְנוּ | nirshámnou | nous nous sommes enregistrés |
+| אַתֶּם | נִרְשַׁמְתֶּם | nirshámtem | vous vous êtes enregistrés (m) |
+| אַתֶּן | נִרְשַׁמְתֶּן | nirshámten | vous vous êtes enregistrées (f) |
+| הֵם/הֵן | נִרְשְׁמוּ | nirshémou | ils/elles se sont enregistrés/enregistrées |
+
+### Conjugaison au futur (עָתִיד)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | אֶרָּשֵׁם | érashem | je m'enregistrerai |
+| אַתָּה | תֵּרָשֵׁם | térashem | tu t'enregistreras (m) |
+| אַתְּ | תֵּרָשְׁמִי | térashémi | tu t'enregistreras (f) |
+| הוּא | יֵרָשֵׁם | yérashem | il s'enregistrera |
+| הִיא | תֵּרָשֵׁם | térashem | elle s'enregistrera |
+| אֲנַחְנוּ | נֵרָשֵׁם | nérashem | nous nous enregistrerons |
+| אַתֶּם | תֵּרָשְׁמוּ | térashémou | vous vous enregistrerez (m) |
+| אַתֶּן | תֵּרָשַׁמְנָה | térashámna | vous vous enregistrerez (f) |
+| הֵם/הֵן | יֵרָשְׁמוּ | yérashémou | ils/elles s'enregistreront |
+
+### Impératif (צִוּוּי)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אַתָּה | הֵרָשֵׁם | hérashem | enregistre-toi ! (m) |
+| אַתְּ | הֵרָשְׁמִי | hérashémi | enregistre-toi ! (f) |
+| אַתֶּם | הֵרָשְׁמוּ | hérashémou | enregistrez-vous ! (m) |
+| אַתֶּן | הֵרָשַׁמְנָה | hérashámna | enregistrez-vous ! (f) |
+
 ---
 
 ## 3. לִשְׁמֹר (lishmor) - Sauvegarder, enregistrer (fichier)
@@ -78,6 +127,55 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 **Infinitif :** לִשְׁמֹר (lishmor)
 **Sens :** Garder, sauvegarder, enregistrer un fichier informatique
 
+### Conjugaison au présent (הֹוֶה)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי/אַתָּה/הוּא | שׁוֹמֵר | shomér | je sauvegarde/tu sauvegardes (m)/il sauvegarde |
+| אַתְּ/הִיא | שׁוֹמֶרֶת | shoméret | tu sauvegardes (f)/elle sauvegarde |
+| אֲנַחְנוּ | שׁוֹמְרִים | shomrim | nous sauvegardons |
+| אַתֶּם | שׁוֹמְרִים | shomrim | vous sauvegardez (m) |
+| אַתֶּן | שׁוֹמְרוֹת | shomrot | vous sauvegardez (f) |
+| הֵם | שׁוֹמְרִים | shomrim | ils sauvegardent |
+| הֵן | שׁוֹמְרוֹת | shomrot | elles sauvegardent |
+
+### Conjugaison au passé (עָבָר)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | שָׁמַרְתִּי | shamárti | j'ai sauvegardé |
+| אַתָּה | שָׁמַרְתָּ | shamárta | tu as sauvegardé (m) |
+| אַתְּ | שָׁמַרְתְּ | shamárt | tu as sauvegardé (f) |
+| הוּא | שָׁמַר | shamár | il a sauvegardé |
+| הִיא | שָׁמְרָה | shamrá | elle a sauvegardé |
+| אֲנַחְנוּ | שָׁמַרְנוּ | shamárnou | nous avons sauvegardé |
+| אַתֶּם | שְׁמַרְתֶּם | shemártem | vous avez sauvegardé (m) |
+| אַתֶּן | שְׁמַרְתֶּן | shemárten | vous avez sauvegardé (f) |
+| הֵם/הֵן | שָׁמְרוּ | shamroú | ils/elles ont sauvegardé |
+
+### Conjugaison au futur (עָתִיד)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | אֶשְׁמֹר | eshmór | je sauvegarderai |
+| אַתָּה | תִּשְׁמֹר | tishmór | tu sauvegarderas (m) |
+| אַתְּ | תִּשְׁמְרִי | tishmerí | tu sauvegarderas (f) |
+| הוּא | יִשְׁמֹר | yishmór | il sauvegarde ra |
+| הִיא | תִּשְׁמֹר | tishmór | elle sauvegarde ra |
+| אֲנַחְנוּ | נִשְׁמֹר | nishmór | nous sauvegarderons |
+| אַתֶּם | תִּשְׁמְרוּ | tishmerú | vous sauvegarderez (m) |
+| אַתֶּן | תִּשְׁמֹרְנָה | tishórna | vous sauvegarderez (f) |
+| הֵם/הֵן | יִשְׁמְרוּ | yishmerú | ils/elles sauvegarderont |
+
+### Impératif (צִוּוּי)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אַתָּה | שְׁמֹר | shmór | sauvegarde ! (m) |
+| אַתְּ | שִׁמְרִי | shimrí | sauvegarde ! (f) |
+| אַתֶּם | שִׁמְרוּ | shimrú | sauvegardez ! (m) |
+| אַתֶּן | שְׁמֹרְנָה | shmórna | sauvegardez ! (f) |
+
 ---
 
 ## 4. לְרַשֵּׁם (lerashem) - Enregistrer, noter (données)
@@ -86,6 +184,55 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 **Binyan :** פִּעֵל (pi'el - intensif)
 **Infinitif :** לְרַשֵּׁם (lerashem)
 **Sens :** Enregistrer, noter, inscrire des informations, des données
+
+### Conjugaison au présent (הֹוֶה)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי/אַתָּה/הוּא | מְרַשֵּׁם | merashem | j'enregistre/tu enregistres (m)/il enregistre |
+| אַתְּ/הִיא | מְרַשֶּׁמֶת | merashémet | tu enregistres (f)/elle enregistre |
+| אֲנַחְנוּ | מְרַשְּׁמִים | merashmim | nous enregistrons |
+| אַתֶּם | מְרַשְּׁמִים | merashmim | vous enregistrez (m) |
+| אַתֶּן | מְרַשְּׁמוֹת | merashmot | vous enregistrez (f) |
+| הֵם | מְרַשְּׁמִים | merashmim | ils enregistrent |
+| הֵן | מְרַשְּׁמוֹת | merashmot | elles enregistrent |
+
+### Conjugaison au passé (עָבָר)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | רִשַּׁמְתִּי | rishámti | j'ai enregistré |
+| אַתָּה | רִשַּׁמְתָּ | rishámta | tu as enregistré (m) |
+| אַתְּ | רִשַּׁמְתְּ | rishámt | tu as enregistré (f) |
+| הוּא | רִשֵּׁם | rishém | il a enregistré |
+| הִיא | רִשְּׁמָה | rishéma | elle a enregistré |
+| אֲנַחְנוּ | רִשַּׁמְנוּ | rishámnou | nous avons enregistré |
+| אַתֶּם | רִשַּׁמְתֶּם | rishámtem | vous avez enregistré (m) |
+| אַתֶּן | רִשַּׁמְתֶּן | rishámten | vous avez enregistré (f) |
+| הֵם/הֵן | רִשְּׁמוּ | rishémou | ils/elles ont enregistré |
+
+### Conjugaison au futur (עָתִיד)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אֲנִי | אֲרַשֵּׁם | arashem | j'enregistrerai |
+| אַתָּה | תְּרַשֵּׁם | terashem | tu enregistreras (m) |
+| אַתְּ | תְּרַשְּׁמִי | terashémi | tu enregistreras (f) |
+| הוּא | יְרַשֵּׁם | yerashem | il enregistrera |
+| הִיא | תְּרַשֵּׁם | terashem | elle enregistrera |
+| אֲנַחְנוּ | נְרַשֵּׁם | nerashem | nous enregistrerons |
+| אַתֶּם | תְּרַשְּׁמוּ | terashémou | vous enregistrerez (m) |
+| אַתֶּן | תְּרַשַּׁמְנָה | terashámna | vous enregistrerez (f) |
+| הֵם/הֵן | יְרַשְּׁמוּ | yerashémou | ils/elles enregistreront |
+
+### Impératif (צִוּוּי)
+
+| Pronom | Hébreu | Phonétique | Français |
+|--------|---------|------------|----------|
+| אַתָּה | רַשֵּׁם | rashém | enregistre ! (m) |
+| אַתְּ | רַשְּׁמִי | rashémi | enregistre ! (f) |
+| אַתֶּם | רַשְּׁמוּ | rashémou | enregistrez ! (m) |
+| אַתֶּן | רַשַּׁמְנָה | rashámna | enregistrez ! (f) |
 
 ---
 
