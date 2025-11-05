@@ -16,27 +16,35 @@
 | [changer](changer.md) | לְשַׁנּוֹת | leshanot | verbe (Pi'el) | 2025-11-05 |
 | [clair/claire](clair-claire.md) | בָּהִיר/בְּהִירָה | bahir/behira | adjectif | 2025-11-05 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
+| [clavier](clavier.md) | מִקְלֶדֶת | mikledet | nom (féminin) | 2025-11-05 |
+| [conversation](conversation.md) | שִׂיחָה | si'ha | nom (féminin) | 2025-11-05 |
 | [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
 | [date](date.md) | תָּאֲרִיךְ | ta'arikh | nom (masculin) | 2025-11-05 |
 | [différent](different.md) | שׁוֹנֶה | shoné | adjectif | 2025-11-05 |
 | [direction (gestion)](direction-gestion.md) | הַנְהָלָה | hanhalah | nom (féminin) | 2025-11-05 |
 | [direction (sens)](direction-sens.md) | כִּוּוּן | kivoun | nom (masculin) | 2025-11-05 |
 | [heureux](meoushar-heureux.md) | מְאֻשָּׁר | meoushar | adjectif (Pi'el) | 2025-11-04 |
+| [hôtel](hotel.md) | מָלוֹן | malon | nom (masculin) | 2025-11-05 |
+| [information](information.md) | מֵידָע | meïda | nom (masculin) | 2025-11-05 |
 | [colis](colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
 | [distribuer](distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [domicile](domicile.md) | דִּירָה / מָעוֹן / בַּיִת | dirah / maon / bayit | nom (féminin/masculin) | 2025-11-04 |
 | [donner](donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
+| [écran](ecran.md) | מָסָךְ | masakh | nom (masculin) | 2025-11-05 |
 | [opinion](opinion.md) | דֵּעָה | de'ah | nom (féminin) | 2025-11-04 |
 | [enregistrer](enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
 | [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
 | [enveloppe](enveloppe.md) | מַעֲטָפָה | maatafa | nom (féminin) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
 | [être prêt](etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
+| [internet](internet.md) | אִינְטֶרְנֶט | internet | nom (masculin) | 2025-11-05 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
 | [livrer / expédier](livrer-expedier.md) | לְשַׁלֵּחַ | leshalé'akh | verbe (Pi'el) | 2025-11-05 |
 | [neige](neige.md) | שֶׁלֶג | shèleg | nom (masculin) | 2025-11-04 |
+| [ordinateur](ordinateur.md) | מַחְשֵׁב | makhshev | nom (masculin) | 2025-11-05 |
+| [ordinateur portable](portable.md) | מַחְשֵׁב נַיָּד | makhshev nayad | nom (masculin) | 2025-11-05 |
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |
 | [ligné](ligne.md) | מְשֻׁרְטָט/מְשֻׁרְטֶטֶת | meshourtate/meshourtétét | adjectif | 2025-11-02 |
@@ -59,6 +67,7 @@
 | [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [solution](solution.md) | פִּתְרוֹן / תַּמְסִיס | pitron / tamsis | nom (masculin) | 2025-11-04 |
+| [souris](souris.md) | עַכְבָּר | akhbar | nom (masculin) | 2025-11-05 |
 | [spectacle](spectacle.md) | הַצָּגָה / מַחֲזֶה / מוֹפָע | hatsa'gah / maḥazeh / mofa' | nom (féminin/masculin) | 2025-11-04 |
 | [sujet](sujet.md) | נוֹשֵׂא | nosé | nom (masculin) | 2025-11-05 |
 | [tard](tard.md) | מְאֻחָר | meouḥar | adverbe | 2025-11-05 |
