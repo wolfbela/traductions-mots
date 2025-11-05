@@ -8,9 +8,7 @@
 | [autre](autre.md) | אַחֵר / עוֹד | akher / od | adjectif / adverbe | 2025-11-04 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [bientôt](bientot.md) | בְּקָרוֹב / עוֹד מְעַט / בִּמְהֵרָה | be-karov / od me-at / bimhera | adverbe / locution adverbiale | 2025-11-04 |
-| [binianim (système verbal)](../grammaire/binianim-systeme-verbal.md) | בִּנְיָנִים | binyanim | grammaire | 2025-11-02 |
 | [bloc-notes](bloc-notes.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-03 |
-| [particule אֶת (et)](../grammaire/particule-et.md) | אֶת | et | grammaire (particule d'objet direct) | 2025-11-04 |
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
@@ -30,6 +28,7 @@
 | [être prêt](etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
+| [livrer / expédier](livrer-expedier.md) | לְשַׁלֵּחַ | leshalé'akh | verbe (Pi'el) | 2025-11-05 |
 | [neige](neige.md) | שֶׁלֶג | shèleg | nom (masculin) | 2025-11-04 |
 | [jeu](jeu.md) | מִשְׂחָק | miskhak | nom (masculin) | 2025-11-01 |
 | [jouer](jouer.md) | לְשַׂחֵק | lesaḥeq | verbe (Pi'el) | 2025-11-01 |

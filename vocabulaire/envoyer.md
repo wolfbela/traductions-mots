@@ -488,3 +488,33 @@ Identifiez le contexte (postal/numérique/social) et traduisez :
 ---
 
 **Note pédagogique :** Le verbe לִשְׁלֹחַ est extrêmement courant en hébreu moderne, utilisé quotidiennement dans tous les contextes de communication. Sa maîtrise est essentielle pour la communication de base. Notez que la racine שׁ-ל-ח apparaît dans de nombreux mots liés à l'envoi et à l'expédition.
+
+---
+
+## ⚠️ ATTENTION : Distinction importante avec le binyan Pi'el
+
+La même racine **ש-ל-ח** existe également au **binyan Pi'el** : **לְשַׁלֵּחַ** (leshalé'akh)
+
+### Différence clé entre Pa'al et Pi'el :
+
+| Binyan | Infinitif | Présent (m.s.) | Sens | Utilisation |
+|--------|-----------|----------------|------|-------------|
+| **Pa'al** | לִשְׁלֹחַ (lishlokh) | שׁוֹלֵחַ (sholé'akh) | **envoyer** (action simple) | Action ponctuelle, personnelle |
+| **Pi'el** | לְשַׁלֵּחַ (leshalé'akh) | **מְשַׁלֵּחַ** (meshalé'akh) | **livrer, expédier** (action intensive) | Action commerciale, professionnelle, répétée |
+
+### Reconnaître le Pi'el au présent :
+Le **מְ** au début du verbe au présent est le marqueur du binyan Pi'el !
+
+**Exemples comparatifs :**
+
+1. **Pa'al (action simple) :**
+   - **אֲנִי שׁוֹלֵחַ לְךָ הוֹדָעָה** (ani sholé'akh lekha hoda'a)
+   - Je t'envoie un message (une fois, action personnelle)
+
+2. **Pi'el (action professionnelle/répétée) :**
+   - **הַמִּסְעָדָה מְשַׁלַּחַת מִשְׁלוֹחִים** (hamisada meshalakhat mishlokhim)
+   - Le restaurant livre (activité commerciale)
+
+### Voir aussi :
+- **[Fichier détaillé sur livrer/expédier (Pi'el)](livrer-expedier.md)** - Pour les conjugaisons complètes du binyan Pi'el
+- **[Règle de grammaire : Pa'al vs Pi'el](../grammaire/binyanim-paal-vs-piel.md)** - Pour comprendre la distinction entre ces deux binyanim
