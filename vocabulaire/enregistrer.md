@@ -118,6 +118,96 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 | אַתֶּם | הֵרָשְׁמוּ | hérashémou | enregistrez-vous ! (m) |
 | אַתֶּן | הֵרָשַׁמְנָה | hérashámna | enregistrez-vous ! (f) |
 
+### Exemples de phrases
+
+#### Type 1 - Avec l'infinitif לְהִרְשָׁם
+
+1. **אֲנִי צָרִיךְ לְהִרְשָׁם לַקּוּרְס**
+   *ani tsarikh lehirsham lakours*
+   Je dois m'inscrire au cours
+
+2. **הִיא רוֹצָה לְהִרְשָׁם לָאֵירוּעַ**
+   *hi rotsa lehirsham la'éroua*
+   Elle veut s'enregistrer pour l'événement
+
+#### Type 2 - Avec conjugaisons (présent, passé, futur)
+
+1. **אֲנִי נִרְשָׁם בַּמָּלוֹן עַכְשָׁיו** (présent)
+   *ani nirsham bamalon akhshav*
+   Je m'enregistre à l'hôtel maintenant
+
+2. **אַתָּה נִרְשַׁמְתָּ לָאֲתַר אֶתְמוֹל** (passé)
+   *atah nirshámta la'atar etmol*
+   Tu t'es inscrit sur le site hier
+
+3. **הֵם יֵרָשְׁמוּ לַכֵּנֶס מָחָר** (futur)
+   *hem yérashémou lakénes makhar*
+   Ils s'inscriront au congrès demain
+
+4. **הִיא נִרְשְׁמָה לְקוּפַּת חוֹלִים** (passé)
+   *hi nirshéma lekoupat kholim*
+   Elle s'est enregistrée à la caisse maladie
+
+5. **הֵרָשֵׁם כָּאן!** (impératif)
+   *hérashem kan!*
+   Inscris-toi ici !
+
+### Exercices de pratique
+
+1. **Traduisez en hébreu :** "Nous nous inscrivons au cours"
+
+2. **Conjuguez לְהִרְשָׁם au passé, 1ère personne singulier (je)**
+
+3. **Complétez la phrase :** אַתָּה _______ לַמָּלוֹן אֶתְמוֹל? (Tu t'es enregistré à l'hôtel hier ?)
+
+4. **Traduisez en français :** הֵם יֵרָשְׁמוּ לַקּוּרְס הַחָדָשׁ
+
+5. **Traduisez en hébreu :** "Elle veut s'inscrire à l'événement"
+
+6. **Conjuguez לְהִרְשָׁם au présent, 3ème personne féminin singulier (elle)**
+
+7. **Traduisez en hébreu :** "Inscrivez-vous maintenant !" (impératif masculin pluriel)
+
+8. **Complétez la phrase :** אֲנִי _______ לָאֲתַר מָחָר (Je m'inscrirai sur le site demain)
+
+### Corrigés des exercices
+
+1. **אֲנַחְנוּ נִרְשָׁמִים לַקּוּרְס**
+   *anakhnou nirshamim lakours*
+   Nous nous inscrivons au cours
+   _Explication :_ Présent, 1ère personne pluriel de לְהִרְשָׁם
+
+2. **נִרְשַׁמְתִּי** (nirshámti)
+   Je me suis inscrit(e)
+   _Explication :_ Passé, 1ère personne singulier
+
+3. **אַתָּה נִרְשַׁמְתָּ לַמָּלוֹן אֶתְמוֹל?**
+   *atah nirshámta lamalon etmol?*
+   Tu t'es enregistré à l'hôtel hier ?
+   _Explication :_ Le verbe au passé, 2ème personne masculin singulier : נִרְשַׁמְתָּ
+
+4. "Ils s'inscriront au nouveau cours"
+   _Explication :_ יֵרָשְׁמוּ = futur, 3ème personne masculin pluriel ; חָדָשׁ = nouveau
+
+5. **הִיא רוֹצָה לְהִרְשָׁם לָאֵירוּעַ**
+   *hi rotsa lehirsham la'éroua*
+   Elle veut s'inscrire à l'événement
+   _Explication :_ רוֹצָה = veut ; לְהִרְשָׁם = s'inscrire (infinitif)
+
+6. **נִרְשֶׁמֶת** (nirshémet)
+   Elle s'inscrit / Elle s'enregistre
+   _Explication :_ Présent, 3ème personne féminin singulier
+
+7. **הֵרָשְׁמוּ עַכְשָׁיו!**
+   *hérashémou akhshav!*
+   Inscrivez-vous maintenant !
+   _Explication :_ Impératif masculin pluriel de לְהִרְשָׁם + עַכְשָׁיו (maintenant)
+
+8. **אֲנִי אֶרָּשֵׁם לָאֲתַר מָחָר**
+   *ani érashem la'atar makhar*
+   Je m'inscrirai sur le site demain
+   _Explication :_ אֶרָּשֵׁם = futur, 1ère personne singulier
+
 ---
 
 ## 3. לִשְׁמֹר (lishmor) - Sauvegarder, enregistrer (fichier)
@@ -176,6 +266,96 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 | אַתֶּם | שִׁמְרוּ | shimrú | sauvegardez ! (m) |
 | אַתֶּן | שְׁמֹרְנָה | shmórna | sauvegardez ! (f) |
 
+### Exemples de phrases
+
+#### Type 1 - Avec l'infinitif לִשְׁמֹר
+
+1. **אַל תִּשְׁכַּח לִשְׁמֹר אֶת הַקּוֹבֶץ**
+   *al tishkakh lishmor et hakovets*
+   N'oublie pas de sauvegarder le fichier
+
+2. **אֲנִי צָרִיךְ לִשְׁמֹר אֶת הַמִּסְמָךְ**
+   *ani tsarikh lishmor et hamismakh*
+   Je dois sauvegarder le document
+
+#### Type 2 - Avec conjugaisons (présent, passé, futur)
+
+1. **אֲנִי שׁוֹמֵר אֶת הַקּוֹבֶץ כָּל שָׁעָה** (présent)
+   *ani shomér et hakovets kol sha'a*
+   Je sauvegarde le fichier chaque heure
+
+2. **אַתָּה שָׁמַרְתָּ אֶת הַמַּצְגֶּת?** (passé)
+   *atah shamárta et hamatsguét?*
+   Tu as sauvegardé la présentation ?
+
+3. **הִיא תִּשְׁמֹר אֶת הַנְּתוּנִים מָחָר** (futur)
+   *hi tishmór et hanetounim makhar*
+   Elle sauvegarde ra les données demain
+
+4. **הֵם שָׁמְרוּ אֶת הַפְּרוֹיֶקְט אֶתְמוֹל** (passé)
+   *hem shamroú et haproyekt etmol*
+   Ils ont sauvegardé le projet hier
+
+5. **שְׁמֹר אֶת הָעֲבוֹדָה שֶׁלְּךָ!** (impératif)
+   *shmór et ha'avoda shélékha!*
+   Sauvegarde ton travail !
+
+### Exercices de pratique
+
+1. **Traduisez en hébreu :** "Nous sauvegardons les fichiers"
+
+2. **Conjuguez לִשְׁמֹר au passé, 3ème personne masculin singulier (il)**
+
+3. **Complétez la phrase :** אֲנִי _______ אֶת הַמִּסְמָךְ עַכְשָׁיו (Je sauvegarde le document maintenant)
+
+4. **Traduisez en français :** הִיא תִּשְׁמֹר אֶת הַתְּמוּנוֹת בַּמַּחְשֵׁב
+
+5. **Traduisez en hébreu :** "N'oublie pas de sauvegarder !" (impératif masculin)
+
+6. **Conjuguez לִשְׁמֹר au futur, 1ère personne singulier (je)**
+
+7. **Traduisez en hébreu :** "Ils sauvegardent les données chaque jour"
+
+8. **Complétez la phrase :** אַתָּה _______ אֶת הַקּוֹבֶץ אֶתְמוֹל? (Tu as sauvegardé le fichier hier ?)
+
+### Corrigés des exercices
+
+1. **אֲנַחְנוּ שׁוֹמְרִים אֶת הַקְּבָצִים**
+   *anakhnou shomrim et hakevatsim*
+   Nous sauvegardons les fichiers
+   _Explication :_ Présent, 1ère personne pluriel de לִשְׁמֹר ; קְּבָצִים = fichiers (pluriel)
+
+2. **שָׁמַר** (shamár)
+   Il a sauvegardé
+   _Explication :_ Passé, 3ème personne masculin singulier
+
+3. **אֲנִי שׁוֹמֵר אֶת הַמִּסְמָךְ עַכְשָׁיו**
+   *ani shomér et hamismakh akhshav*
+   Je sauvegarde le document maintenant
+   _Explication :_ Le verbe au présent, 1ère personne masculin singulier : שׁוֹמֵר
+
+4. "Elle sauvegarde ra les photos sur l'ordinateur"
+   _Explication :_ תִּשְׁמֹר = futur, 3ème personne féminin singulier ; תְּמוּנוֹת = photos
+
+5. **אַל תִּשְׁכַּח לִשְׁמֹר!** ou **שְׁמֹר!**
+   *al tishkakh lishmor!* ou *shmór!*
+   N'oublie pas de sauvegarder ! / Sauvegarde !
+   _Explication :_ Impératif masculin singulier : שְׁמֹר
+
+6. **אֶשְׁמֹר** (eshmór)
+   Je sauvegarderai
+   _Explication :_ Futur, 1ère personne singulier
+
+7. **הֵם שׁוֹמְרִים אֶת הַנְּתוּנִים כָּל יוֹם**
+   *hem shomrim et hanetounim kol yom*
+   Ils sauvegardent les données chaque jour
+   _Explication :_ שׁוֹמְרִים = présent, masculin pluriel ; כָּל יוֹם = chaque jour
+
+8. **אַתָּה שָׁמַרְתָּ אֶת הַקּוֹבֶץ אֶתְמוֹל?**
+   *atah shamárta et hakovets etmol?*
+   Tu as sauvegardé le fichier hier ?
+   _Explication :_ שָׁמַרְתָּ = passé, 2ème personne masculin singulier
+
 ---
 
 ## 4. לְרַשֵּׁם (lerashem) - Enregistrer, noter (données)
@@ -233,6 +413,96 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 | אַתְּ | רַשְּׁמִי | rashémi | enregistre ! (f) |
 | אַתֶּם | רַשְּׁמוּ | rashémou | enregistrez ! (m) |
 | אַתֶּן | רַשַּׁמְנָה | rashámna | enregistrez ! (f) |
+
+### Exemples de phrases
+
+#### Type 1 - Avec l'infinitif לְרַשֵּׁם
+
+1. **הַרוֹפֵא צָרִיךְ לְרַשֵּׁם אֶת הַתְּסְמִינִים**
+   *harofeh tsarikh lerashem et hatsminim*
+   Le médecin doit enregistrer les symptômes
+
+2. **אֲנִי רוֹצֶה לְרַשֵּׁם אֶת הַפְּרָטִים**
+   *ani rotseh lerashem et haprátim*
+   Je veux noter les détails
+
+#### Type 2 - Avec conjugaisons (présent, passé, futur)
+
+1. **הַפְּקִידָה מְרַשֶּׁמֶת אֶת הַמֵּידָע** (présent)
+   *hapkida merashémet et haméyda*
+   L'employée enregistre les informations
+
+2. **הֵם רִשְּׁמוּ אֶת הַתּוֹצָאוֹת אֶתְמוֹל** (passé)
+   *hem rishémou et hatotsa'ot etmol*
+   Ils ont enregistré les résultats hier
+
+3. **אֲנִי אֲרַשֵּׁם אֶת הַנְּתוּנִים מָחָר** (futur)
+   *ani arashem et hanetounim makhar*
+   J'enregistrerai les données demain
+
+4. **אַתָּה רִשַּׁמְתָּ אֶת הַכְּתֹבֶת?** (passé)
+   *atah rishámta et haktovet?*
+   Tu as noté l'adresse ?
+
+5. **רַשֵּׁם אֶת כָּל הַפְּרָטִים!** (impératif)
+   *rashém et kol haprátim!*
+   Note tous les détails !
+
+### Exercices de pratique
+
+1. **Traduisez en hébreu :** "Le médecin enregistre les symptômes"
+
+2. **Conjuguez לְרַשֵּׁם au passé, 1ère personne singulier (je)**
+
+3. **Complétez la phrase :** הַפְּקִיד _______ אֶת הַנְּתוּנִים עַכְשָׁיו (L'employé enregistre les données maintenant)
+
+4. **Traduisez en français :** אֲנַחְנוּ נְרַשֵּׁם אֶת הַמֵּידָע מָחָר
+
+5. **Traduisez en hébreu :** "Elle a noté l'adresse hier"
+
+6. **Conjuguez לְרַשֵּׁם au présent, 3ème personne féminin singulier (elle)**
+
+7. **Traduisez en hébreu :** "Notez toutes les informations !" (impératif masculin pluriel)
+
+8. **Complétez la phrase :** אַתָּה _______ אֶת הַתּוֹצָאוֹת? (Tu enregistres les résultats ?)
+
+### Corrigés des exercices
+
+1. **הַרוֹפֵא מְרַשֵּׁם אֶת הַתְּסְמִינִים**
+   *harofeh merashem et hatsminim*
+   Le médecin enregistre les symptômes
+   _Explication :_ Présent, 3ème personne masculin singulier de לְרַשֵּׁם
+
+2. **רִשַּׁמְתִּי** (rishámti)
+   J'ai enregistré / J'ai noté
+   _Explication :_ Passé, 1ère personne singulier
+
+3. **הַפְּקִיד מְרַשֵּׁם אֶת הַנְּתוּנִים עַכְשָׁיו**
+   *hapakid merashem et hanetounim akhshav*
+   L'employé enregistre les données maintenant
+   _Explication :_ Le verbe au présent, 3ème personne masculin singulier : מְרַשֵּׁם
+
+4. "Nous enregistrerons les informations demain"
+   _Explication :_ נְרַשֵּׁם = futur, 1ère personne pluriel ; מֵּידָע = informations
+
+5. **הִיא רִשְּׁמָה אֶת הַכְּתֹבֶת אֶתְמוֹל**
+   *hi rishéma et haktovet etmol*
+   Elle a noté l'adresse hier
+   _Explication :_ רִשְּׁמָה = passé, 3ème personne féminin singulier ; כְּתֹבֶת = adresse
+
+6. **מְרַשֶּׁמֶת** (merashémet)
+   Elle enregistre / Elle note
+   _Explication :_ Présent, 3ème personne féminin singulier
+
+7. **רַשְּׁמוּ אֶת כָּל הַמֵּידָע!**
+   *rashémou et kol haméyda!*
+   Notez toutes les informations !
+   _Explication :_ Impératif masculin pluriel de לְרַשֵּׁם + כָּל = toutes
+
+8. **אַתָּה מְרַשֵּׁם אֶת הַתּוֹצָאוֹת?**
+   *atah merashem et hatotsa'ot?*
+   Tu enregistres les résultats ?
+   _Explication :_ מְרַשֵּׁם = présent, 2ème personne masculin singulier
 
 ---
 
