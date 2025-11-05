@@ -60,6 +60,79 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
 | אַתֶּם | הַקְלִיטוּ | haklitou | enregistrez ! (m) |
 | אַתֶּן | הַקְלֵטְנָה | hakletnah | enregistrez ! (f) |
 
+### Proposition de carte Anki
+
+**RECTO :**
+Enregistrer (audio/vidéo)
+_Conjugue au présent, masculin singulier_
+
+**VERSO :**
+לְהַקְלִיט (lehaklit)
+**Présent :** מַקְלִיט (maklit)
+**Racine :** ק.ל.ט
+**Binyan :** הִפְעִיל
+
+_Exemple :_ אֲנִי מַקְלִיט שִׁיר (ani maklit shir) - J'enregistre une chanson
+
+---
+
+### Exercices de pratique
+
+1. **Traduisez en hébreu :** "Nous enregistrons un podcast"
+
+2. **Conjuguez לְהַקְלִיט au passé, 3ème personne féminin singulier (elle)**
+
+3. **Complétez la phrase :** הוּא _______ אֶת הַשִּׁעוּר אֶתְמוֹל (Il a enregistré le cours hier)
+
+4. **Traduisez en français :** אֲנִי צָרִיךְ לְהִרְשָׁם בַּמָּלוֹן מָחָר
+
+5. **Quel verbe utiliseriez-vous pour "sauvegarder un fichier" ? Écrivez-le avec les nekoudot**
+
+6. **Traduisez en hébreu :** "Enregistre la conversation !" (impératif masculin)
+
+7. **Conjuguez לְהַקְלִיט au futur, 1ère personne pluriel (nous)**
+
+8. **Choisissez le bon verbe et traduisez :** "Le médecin enregistre les résultats"
+
+---
+
+##% Corrigés des exercices
+
+1. **אֲנַחְנוּ מַקְלִיטִים פּוֹדְקַאסְט**
+   *anakhnou maklitim podcast*
+   Nous enregistrons un podcast
+   _Explication :_ Présent, 1ère personne pluriel de לְהַקְלִיט
+
+2. **הִקְלִיטָה** (hiklita)
+   Elle a enregistré
+   _Explication :_ Passé, 3ème personne féminin singulier
+
+3. **הוּא הִקְלִיט אֶת הַשִּׁעוּר אֶתְמוֹל**
+   *hou hiklit et hashi'our etmol*
+   Il a enregistré le cours hier
+   _Explication :_ Le verbe au passé, 3ème personne masculin singulier : הִקְלִיט
+
+4. "Je dois m'enregistrer à l'hôtel demain"
+   _Explication :_ לְהִרְשָׁם signifie s'enregistrer/s'inscrire ; צָרִיךְ = devoir ; מָחָר = demain
+
+5. **לִשְׁמֹר** (lishmor)
+   C'est le verbe utilisé pour sauvegarder un fichier informatique
+   _Explication :_ לִשְׁמֹר signifie garder, sauvegarder
+
+6. **הַקְלֵט אֶת הַשִּׂיחָה!**
+   *haklet et hasikha!*
+   Enregistre la conversation !
+   _Explication :_ Impératif masculin singulier de לְהַקְלִיט
+
+7. **נַקְלִיט** (naklit)
+   Nous enregistrerons
+   _Explication :_ Futur, 1ère personne pluriel
+
+8. **הַרוֹפֵא מְרַשֵּׁם אֶת הַתּוֹצָאוֹת**
+   *harofeh merashem et hatotsa'ot*
+   Le médecin enregistre les résultats
+   _Explication :_ On utilise לְרַשֵּׁם pour enregistrer des données/informations médicales
+
 ---
 
 ## 2. לְהִרְשָׁם (lehirsham) - S'enregistrer, s'inscrire
@@ -565,77 +638,3 @@ Le mot français "enregistrer" se traduit par plusieurs verbes en hébreu selon 
    *harofeh merashem et kol hanetounim*
    Le médecin enregistre toutes les données
 
----
-
-## Proposition de carte Anki
-
-**RECTO :**
-Enregistrer (audio/vidéo)
-_Conjugue au présent, masculin singulier_
-
-**VERSO :**
-לְהַקְלִיט (lehaklit)
-**Présent :** מַקְלִיט (maklit)
-**Racine :** ק.ל.ט
-**Binyan :** הִפְעִיל
-
-_Exemple :_ אֲנִי מַקְלִיט שִׁיר (ani maklit shir) - J'enregistre une chanson
-
----
-
-## Exercices de pratique
-
-1. **Traduisez en hébreu :** "Nous enregistrons un podcast"
-
-2. **Conjuguez לְהַקְלִיט au passé, 3ème personne féminin singulier (elle)**
-
-3. **Complétez la phrase :** הוּא _______ אֶת הַשִּׁעוּר אֶתְמוֹל (Il a enregistré le cours hier)
-
-4. **Traduisez en français :** אֲנִי צָרִיךְ לְהִרְשָׁם בַּמָּלוֹן מָחָר
-
-5. **Quel verbe utiliseriez-vous pour "sauvegarder un fichier" ? Écrivez-le avec les nekoudot**
-
-6. **Traduisez en hébreu :** "Enregistre la conversation !" (impératif masculin)
-
-7. **Conjuguez לְהַקְלִיט au futur, 1ère personne pluriel (nous)**
-
-8. **Choisissez le bon verbe et traduisez :** "Le médecin enregistre les résultats"
-
----
-
-## Corrigés des exercices
-
-1. **אֲנַחְנוּ מַקְלִיטִים פּוֹדְקַאסְט**
-   *anakhnou maklitim podcast*
-   Nous enregistrons un podcast
-   _Explication :_ Présent, 1ère personne pluriel de לְהַקְלִיט
-
-2. **הִקְלִיטָה** (hiklita)
-   Elle a enregistré
-   _Explication :_ Passé, 3ème personne féminin singulier
-
-3. **הוּא הִקְלִיט אֶת הַשִּׁעוּר אֶתְמוֹל**
-   *hou hiklit et hashi'our etmol*
-   Il a enregistré le cours hier
-   _Explication :_ Le verbe au passé, 3ème personne masculin singulier : הִקְלִיט
-
-4. "Je dois m'enregistrer à l'hôtel demain"
-   _Explication :_ לְהִרְשָׁם signifie s'enregistrer/s'inscrire ; צָרִיךְ = devoir ; מָחָר = demain
-
-5. **לִשְׁמֹר** (lishmor)
-   C'est le verbe utilisé pour sauvegarder un fichier informatique
-   _Explication :_ לִשְׁמֹר signifie garder, sauvegarder
-
-6. **הַקְלֵט אֶת הַשִּׂיחָה!**
-   *haklet et hasikha!*
-   Enregistre la conversation !
-   _Explication :_ Impératif masculin singulier de לְהַקְלִיט
-
-7. **נַקְלִיט** (naklit)
-   Nous enregistrerons
-   _Explication :_ Futur, 1ère personne pluriel
-
-8. **הַרוֹפֵא מְרַשֵּׁם אֶת הַתּוֹצָאוֹת**
-   *harofeh merashem et hatotsa'ot*
-   Le médecin enregistre les résultats
-   _Explication :_ On utilise לְרַשֵּׁם pour enregistrer des données/informations médicales
