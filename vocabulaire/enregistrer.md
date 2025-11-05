@@ -74,8 +74,6 @@ _Conjugue au présent, masculin singulier_
 
 _Exemple :_ אֲנִי מַקְלִיט שִׁיר (ani maklit shir) - J'enregistre une chanson
 
----
-
 ### Exercices de pratique
 
 1. **Traduisez en hébreu :** "Nous enregistrons un podcast"
@@ -93,8 +91,6 @@ _Exemple :_ אֲנִי מַקְלִיט שִׁיר (ani maklit shir) - J'enregis
 7. **Conjuguez לְהַקְלִיט au futur, 1ère personne pluriel (nous)**
 
 8. **Choisissez le bon verbe et traduisez :** "Le médecin enregistre les résultats"
-
----
 
 ### Corrigés des exercices
 
