@@ -96,7 +96,7 @@ _Exemple :_ אֲנִי מַקְלִיט שִׁיר (ani maklit shir) - J'enregis
 
 ---
 
-##% Corrigés des exercices
+### Corrigés des exercices
 
 1. **אֲנַחְנוּ מַקְלִיטִים פּוֹדְקַאסְט**
    *anakhnou maklitim podcast*
