@@ -12,11 +12,15 @@
 | [boul (timbre/exactement)](boul.md) | בּוּל | boul | nom (masculin) / interjection | 2025-11-02 |
 | [cahier](cahier.md) | מַחְבֶּרֶת | makhberet | nom (féminin) | 2025-11-02 |
 | [carte postale](carte-postale.md) | גְּלוּיָה | glouya | nom (féminin) | 2025-11-02 |
+| [chambre](chambre.md) | חֶדֶר | kheder | nom (masculin) | 2025-11-05 |
 | [changer](changer.md) | לְשַׁנּוֹת | leshanot | verbe (Pi'el) | 2025-11-05 |
 | [clair/claire](clair-claire.md) | בָּהִיר/בְּהִירָה | bahir/behira | adjectif | 2025-11-05 |
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
 | [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
+| [date](date.md) | תָּאֲרִיךְ | ta'arikh | nom (masculin) | 2025-11-05 |
 | [différent](different.md) | שׁוֹנֶה | shoné | adjectif | 2025-11-05 |
+| [direction (gestion)](direction-gestion.md) | הַנְהָלָה | hanhalah | nom (féminin) | 2025-11-05 |
+| [direction (sens)](direction-sens.md) | כִּוּוּן | kivoun | nom (masculin) | 2025-11-05 |
 | [heureux](meoushar-heureux.md) | מְאֻשָּׁר | meoushar | adjectif (Pi'el) | 2025-11-04 |
 | [colis](colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
@@ -39,10 +43,12 @@
 | [mauvais](mauvais.md) | רַע | ra | adjectif (masculin) | 2025-11-02 |
 | [message](message.md) | הוֹדָעָה | hoda'ah | nom (féminin) | 2025-11-02 |
 | [montagne](montagne.md) | הַר | har | nom (masculin) | 2025-11-05 |
+| [mot de passe](mot-de-passe.md) | סִסְמָה | sismah | nom (féminin) | 2025-11-05 |
 | [papier](papier.md) | נְיָר | neyar | nom (masculin) | 2025-11-03 |
 | [partir](partir.md) | לָצֵאת | latset | verbe (Pa'al) | 2025-11-02 |
 | [possibilité](possibilite.md) | אֶפְשָׁרוּת | efsharout | nom (féminin) | 2025-11-03 |
 | [prendre](prendre.md) | לָקַחַת | lakakhat | verbe (Pa'al) | 2025-11-04 |
+| [programme](programme.md) | תּוֹכְנִית | tokhnit | nom (féminin) | 2025-11-05 |
 | [spécial](special.md) | מְיֻחָד | meyoukhad | adjectif (Pou'al) | 2025-11-04 |
 | [recevoir](recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [repas](repas-arouhat.md) | אֲרוּחָה / אֲרוּחַת | arouḥah / arouḥat | nom (féminin) - forme absolue/construite | 2025-11-05 |
