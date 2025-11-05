@@ -45,10 +45,12 @@
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [sans](sans.md) | בְּלִי | bli | préposition | 2025-11-05 |
+| [se lever](se-lever.md) | לָקוּם | lakoum | verbe (Pa'al) | 2025-11-05 |
 | [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
 | [solution](solution.md) | פִּתְרוֹן / תַּמְסִיס | pitron / tamsis | nom (masculin) | 2025-11-04 |
 | [spectacle](spectacle.md) | הַצָּגָה / מַחֲזֶה / מוֹפָע | hatsa'gah / maḥazeh / mofa' | nom (féminin/masculin) | 2025-11-04 |
+| [tard](tard.md) | מְאֻחָר | meouḥar | adverbe | 2025-11-05 |
 | [tôt](tot.md) | מוּקְדָּם | mouckedam | adverbe | 2025-11-03 |
 | [trop](trop.md) | מִדַּי | miday | adverbe | 2025-11-03 |
 | [trouver](trouver.md) | לִמְצֹא | limtso | verbe (Pa'al) | 2025-11-05 |
