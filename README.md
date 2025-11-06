@@ -33,7 +33,7 @@
 | [distribuer](vocabulaire/distribuer.md) | לְחַלֵּק | lekhalek | verbe (Pi'el) | 2025-11-02 |
 | [domicile](vocabulaire/domicile.md) | דִּירָה / מָעוֹן / בַּיִת | dirah / maon / bayit | nom (féminin/masculin) | 2025-11-04 |
 | [donner](vocabulaire/donner.md) | לָתֵת | latet | verbe (Pa'al) | 2025-11-02 |
-| [écran](vocabulaire/ecran.md) | מָסָךְ | masakh | nom (masculin) | 2025-11-05 |
+| [écran](vocabulaire/ecran.md) | מָסָךְ | masakh | nom (masculin) | 2025-11-06 |
 | [opinion](vocabulaire/opinion.md) | דֵּעָה | de'ah | nom (féminin) | 2025-11-04 |
 | [enregistrer](vocabulaire/enregistrer.md) | לְהַקְלִיט / לְהִרְשָׁם / לִשְׁמֹר / לְרַשֵּׁם | lehaklit / lehirsham / lishmor / lerashem | verbe (Hif'il / Nif'al / Pa'al / Pi'el) | 2025-11-04 |
 | [ensemble](vocabulaire/ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |

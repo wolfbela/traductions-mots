@@ -4,9 +4,9 @@
 
 **Mot hébreu :** מָסָךְ
 **Phonétique :** masakh
-**Genre :** Masculin
-**Nombre :** Singulier
-**Pluriel :** מָסָכִים (masakim)
+**Genre :** masculin
+**Nombre :** singulier
+**Pluriel :** מָסַכִּים (masakhim)
 
 **Note culturelle :** Le mot מָסָךְ (masakh) vient de la racine ס-כ-ך qui signifie "couvrir, cacher". Il désigne aussi bien un écran d'ordinateur qu'un rideau de théâtre ou un écran de cinéma.
 
@@ -17,102 +17,98 @@
 ### Phrase 1
 **Hébreu :** הַמָּסָךְ גָּדוֹל
 **Phonétique :** ha-masakh gadol
-**Français :** L'écran est grand
+**Français :** L'écran est grand.
 
 ### Phrase 2
 **Hébreu :** אֲנִי רוֹאֶה אֶת הַמָּסָךְ
 **Phonétique :** ani ro'eh et ha-masakh
-**Français :** Je regarde l'écran
+**Français :** Je vois l'écran.
 
 ### Phrase 3
-**Hébreu :** הַמָּסָךְ שֶׁלִּי חָדָשׁ
-**Phonétique :** ha-masakh sheli khadash
-**Français :** Mon écran est neuf
+**Hébreu :** הַמָּסָךְ שֶׁל הַמַּחְשֵׁב חָדָשׁ
+**Phonétique :** ha-masakh shel ha-makhshev khadash
+**Français :** L'écran de l'ordinateur est nouveau.
 
 ### Phrase 4
-**Hébreu :** הַמִּקְלֶדֶת נִמְצֵאת לִפְנֵי הַמָּסָךְ
-**Phonétique :** ha-mikledet nimtset lifnei ha-masakh
-**Français :** Le clavier se trouve devant l'écran
+**Hébreu :** יֵשׁ מָסָךְ בַּכִּתָּה
+**Phonétique :** yesh masakh ba-kitah
+**Français :** Il y a un écran dans la classe.
 
 ---
 
-## Vocabulaire connexe
+## Mots et expressions associés
 
-| Français | Hébreu (avec nekoudot) | Phonétique |
-|----------|------------------------|------------|
-| Écran tactile | מָסָךְ מַגָּע | masakh maga |
-| Résolution | רֶזוֹלוּצְיָה | rezolutsya |
-| Luminosité | בַּהִירוּת | bahirout |
-| Pixel | פִּיקְסֶל | piksel |
+| Français | Hébreu (avec nekoudot) | Phonétique | Genre |
+|----------|------------------------|------------|-------|
+| Écran tactile | מָסָךְ מַגָּע | masakh maga | masculin |
+| Ordinateur | מַחְשֵׁב | makhshev | masculin |
+| Télévision | טֶלֶוִיזְיָה | televizyah | féminin |
+| Téléphone | טֶלֶפוֹן | telefon | masculin |
+| Résolution | רֶזוֹלוּצְיָה | rezolutsyah | féminin |
+| Luminosité | בַּהִירוּת | bahirout | féminin |
+| Pixel | פִּיקְסֶל | piksel | masculin |
 
 ---
 
 ## Proposition de carte Anki
 
 **RECTO :**
-Écran
+écran
 
 **VERSO :**
-מָסָךְ (masakh)
-Genre : masculin
-Pluriel : מָסָכִים (masakim)
+מָסָךְ
+(masakh)
+*masculin, pluriel : מָסַכִּים (masakhim)*
 
-**Phrase exemple :**
+Phrase exemple :
 הַמָּסָךְ גָּדוֹל
-(ha-masakh gadol)
-L'écran est grand
+*ha-masakh gadol*
+L'écran est grand.
 
 ---
 
 ## Exercices de pratique
 
-### Exercice 1 - Traduction FR → HE
-1. L'écran est grand
-2. J'ai un écran tactile
-3. Mon écran est neuf
-4. L'écran ne fonctionne pas
-5. Le clavier est devant l'écran
+**Exercice 1 :** Traduisez en hébreu : "L'écran est petit"
 
-### Exercice 2 - Accords
-Accordez l'adjectif avec le nom :
-1. מָסָךְ + גָּדוֹל (grand)
-2. מִקְלֶדֶת + גָּדוֹל (grande)
-3. עַכְבָּר + קָטָן (petit)
-4. מָסָךְ + חָדָשׁ (neuf)
-5. מִקְלֶדֶת + חָדָשׁ (neuve)
+**Exercice 2 :** Traduisez en français : יֵשׁ שְׁנֵי מָסַכִּים בַּחֶדֶר
+
+**Exercice 3 :** Complétez avec la forme correcte : הַ_____ שֶׁל הַטֶּלֶפוֹן (l'écran du téléphone)
+
+**Exercice 4 :** Traduisez en hébreu : "Je regarde l'écran"
+
+**Exercice 5 :** Mettez au pluriel : הַמָּסָךְ חָדָשׁ
 
 ---
 
 ## Corrigés des exercices
 
-### Corrigé Exercice 1
-1. **הַמָּסָךְ גָּדוֹל**
-   (ha-masakh gadol)
-   L'écran est grand
+**Exercice 1 :**
+**הַמָּסָךְ קָטָן**
+*ha-masakh katan*
+L'écran est petit.
+*Explication : קָטָן (katan) = petit (masculin singulier)*
 
-2. **יֵשׁ לִי מָסָךְ מַגָּע**
-   (yesh li masakh maga)
-   J'ai un écran tactile
+**Exercice 2 :**
+**יֵשׁ שְׁנֵי מָסַכִּים בַּחֶדֶר**
+*yesh shnei masakhim ba-kheder*
+Il y a deux écrans dans la chambre.
+*Explication : שְׁנֵי (shnei) = deux (forme masculine), חֶדֶר (kheder) = chambre*
 
-3. **הַמָּסָךְ שֶׁלִּי חָדָשׁ**
-   (ha-masakh sheli khadash)
-   Mon écran est neuf
+**Exercice 3 :**
+**הַמָּסָךְ שֶׁל הַטֶּלֶפוֹן**
+*ha-masakh shel ha-telefon*
+L'écran du téléphone.
+*Explication : שֶׁל (shel) = de, indique la possession*
 
-4. **הַמָּסָךְ לֹא עוֹבֵד**
-   (ha-masakh lo oved)
-   L'écran ne fonctionne pas
+**Exercice 4 :**
+**אֲנִי מִסְתַּכֵּל עַל הַמָּסָךְ** (masculin) / **אֲנִי מִסְתַּכֶּלֶת עַל הַמָּסָךְ** (féminin)
+*ani mistakel al ha-masakh* / *ani mistakelet al ha-masakh*
+Je regarde l'écran.
+*Explication : לְהִסְתַּכֵּל (lehistakel) = regarder, observer*
 
-5. **הַמִּקְלֶדֶת לִפְנֵי הַמָּסָךְ**
-   (ha-mikledet lifnei ha-masakh)
-   Le clavier est devant l'écran
-
-### Corrigé Exercice 2
-1. **מָסָךְ גָּדוֹל** (masakh gadol) - masculin
-
-2. **מִקְלֶדֶת גְּדוֹלָה** (mikledet gdola) - féminin
-
-3. **עַכְבָּר קָטָן** (akhbar katan) - masculin
-
-4. **מָסָךְ חָדָשׁ** (masakh khadash) - masculin
-
-5. **מִקְלֶדֶת חֲדָשָׁה** (mikledet khadasha) - féminin
+**Exercice 5 :**
+**הַמָּסַכִּים חֲדָשִׁים**
+*ha-masakhim khadashim*
+Les écrans sont nouveaux.
+*Explication : חֲדָשִׁים (khadashim) = nouveaux (masculin pluriel)*

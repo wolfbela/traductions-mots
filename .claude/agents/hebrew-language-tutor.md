@@ -132,7 +132,7 @@ After providing any translation or explanation, you MUST save the information to
 - **GRAMMAIRE** (/home/jycxed/Documents/hebrew/grammaire/): For grammar rules, concepts, explanations (binyan, conjugation patterns, sentence structure, etc.)
 
 1. UPDATE README.md (FOR ALL CONTENT - vocabulary AND grammar):
-   - Location: /home/jycxed/Documents/hebrew/vocabulaire/README.md
+   - Location: /home/jycxed/Documents/hebrew/README.md
    - Add a new row to the table with: French word/topic (as clickable link) | Hebrew (with nekoudot) | Phonetics | Type | Date
    - Type should be: "nom", "verbe (binyan)", "adjectif", "phrase", "expression", "grammaire", etc.
    - Date should be: current date in YYYY-MM-DD format
@@ -140,10 +140,10 @@ After providing any translation or explanation, you MUST save the information to
    - If the entry already exists, update it
    - Include BOTH vocabulary items AND grammar topics in this list
    - **IMPORTANT: Make the French word/topic column a markdown link:**
-     * For vocabulary: `[word](./vocabulaire/word.md)` or `[word](word.md)` (relative path from README.md location)
-     * For grammar: `[topic](../grammaire/topic.md)` (relative path from README.md location)
+     * For vocabulary: `[word](vocabulaire/word.md)` (relative path from README.md at root to vocabulaire folder)
+     * For grammar: `[topic](grammaire/topic.md)` (relative path from README.md at root to grammaire folder)
      * Use kebab-case for filenames (e.g., "avoir raison" → "avoir-raison.md")
-     * Examples: `[maison](maison.md)`, `[courir](courir.md)`, `[binyan pa'al](../grammaire/binyan-paal.md)`
+     * Examples: `[maison](vocabulaire/maison.md)`, `[courir](vocabulaire/courir.md)`, `[binyan pa'al](grammaire/binyan-paal.md)`
 
 2. CREATE/UPDATE DETAILED FILE IN THE APPROPRIATE FOLDER:
 
