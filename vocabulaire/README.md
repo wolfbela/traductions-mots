@@ -5,6 +5,7 @@
 | [adresse](adresse.md) | כְּתֹבֶת | ktovèt | nom (féminin) | 2025-11-04 |
 | [jusqu'à](ad-jusqua.md) | עַד | ad | préposition | 2025-11-05 |
 | [arriver](arriver.md) | לְהַגִּיעַ | lehaguia | verbe (Hif'il) | 2025-11-03 |
+| [attendre](attendre.md) | לְחַכּוֹת | lekha'kot | verbe (Pi'el) | 2025-11-06 |
 | [autre](autre.md) | אַחֵר / עוֹד | akher / od | adjectif / adverbe | 2025-11-04 |
 | [avoir raison](avoir-raison.md) | לִהְיוֹת צוֹדֵק/צוֹדֶקֶת | lihyot tzodek/tzodeket | expression verbale | 2025-11-02 |
 | [bientôt](bientot.md) | בְּקָרוֹב / עוֹד מְעַט / בִּמְהֵרָה | be-karov / od me-at / bimhera | adverbe / locution adverbiale | 2025-11-04 |
@@ -18,6 +19,7 @@
 | [chercher](chercher.md) | לְחַפֵּשׂ | lekha'pess | verbe (Pi'el) | 2025-11-01 |
 | [clavier](clavier.md) | מִקְלֶדֶת | mikledet | nom (féminin) | 2025-11-05 |
 | [conversation](conversation.md) | שִׂיחָה | si'ha | nom (féminin) | 2025-11-05 |
+| [couleur](couleur.md) | צֶבַע | tzéva | nom (masculin) | 2025-11-06 |
 | [dans](dans.md) | בְּ | be | préposition préfixée | 2025-11-04 |
 | [date](date.md) | תָּאֲרִיךְ | ta'arikh | nom (masculin) | 2025-11-05 |
 | [différent](different.md) | שׁוֹנֶה | shoné | adjectif | 2025-11-05 |
@@ -37,6 +39,7 @@
 | [ensemble](ensemble.md) | יַחַד / סֶט / אַנְסַמְבְּל | yakhad / set / ansambl | adverbe / nom (masculin) | 2025-11-04 |
 | [enveloppe](enveloppe.md) | מַעֲטָפָה | maatafa | nom (féminin) | 2025-11-04 |
 | [envoyer](envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
+| [explication](explication.md) | הֶסְבֵּר | hesber | nom (masculin) | 2025-11-06 |
 | [être prêt](etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
 | [internet](internet.md) | אִינְטֶרְנֶט | internet | nom (masculin) | 2025-11-05 |
 | [invitation](invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
@@ -62,6 +65,7 @@
 | [repas](repas-arouhat.md) | אֲרוּחָה / אֲרוּחַת | arouḥah / arouḥat | nom (féminin) - forme absolue/construite | 2025-11-05 |
 | [réponse](reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
+| [rester](rester.md) | לְהִשָּׁאֵר | lehisha'er | verbe (Nif'al) | 2025-11-06 |
 | [sans](sans.md) | בְּלִי | bli | préposition | 2025-11-05 |
 | [se lever](se-lever.md) | לָקוּם | lakoum | verbe (Pa'al) | 2025-11-05 |
 | [se positionner](se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
