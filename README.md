@@ -27,6 +27,7 @@
 | [direction (sens)](vocabulaire/direction-sens.md) | כִּוּוּן | kivoun | nom (masculin) | 2025-11-05 |
 | [heureux](vocabulaire/meoushar-heureux.md) | מְאֻשָּׁר | meoushar | adjectif (Pi'el) | 2025-11-04 |
 | [hôtel](vocabulaire/hotel.md) | מָלוֹן | malon | nom (masculin) | 2025-11-05 |
+| [image](vocabulaire/image.md) | תְּמוּנָה | tmounah | nom (féminin) | 2025-11-07 |
 | [information](vocabulaire/information.md) | מֵידָע | meïda | nom (masculin) | 2025-11-05 |
 | [colis](vocabulaire/colis.md) | חֲבִילָה | khavila | nom (féminin) | 2025-11-02 |
 | [décision](vocabulaire/decision.md) | הַחְלָטָה | hakhlata | nom (féminin) | 2025-11-02 |
@@ -41,9 +42,12 @@
 | [envoyer](vocabulaire/envoyer.md) | לִשְׁלֹחַ | lishlo'ah | verbe (Pa'al) | 2025-11-02 |
 | [explication](vocabulaire/explication.md) | הֶסְבֵּר | hesber | nom (masculin) | 2025-11-06 |
 | [être prêt](vocabulaire/etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
+| [film](vocabulaire/film.md) | סֶרֶט | seret | nom (masculin) | 2025-11-07 |
+| [fleur](vocabulaire/fleur.md) | פֶּרַח | pérakh | nom (masculin) | 2025-11-07 |
 | [internet](vocabulaire/internet.md) | אִינְטֶרְנֶט | internet | nom (masculin) | 2025-11-05 |
 | [invitation](vocabulaire/invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](vocabulaire/invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
+| [lit](vocabulaire/lit.md) | מִטָּה | mitah | nom (féminin) | 2025-11-07 |
 | [livrer / expédier](vocabulaire/livrer-expedier.md) | לְשַׁלֵּחַ | leshalé'akh | verbe (Pi'el) | 2025-11-05 |
 | [neige](vocabulaire/neige.md) | שֶׁלֶג | shèleg | nom (masculin) | 2025-11-04 |
 | [ordinateur](vocabulaire/ordinateur.md) | מַחְשֵׁב | makhshev | nom (masculin) | 2025-11-05 |
@@ -60,6 +64,7 @@
 | [possibilité](vocabulaire/possibilite.md) | אֶפְשָׁרוּת | efsharout | nom (féminin) | 2025-11-03 |
 | [prendre](vocabulaire/prendre.md) | לָקַחַת | lakakhat | verbe (Pa'al) | 2025-11-04 |
 | [programme](vocabulaire/programme.md) | תּוֹכְנִית | tokhnit | nom (féminin) | 2025-11-05 |
+| [propre](vocabulaire/propre.md) | נָקִי / שֶׁל עַצְמוֹ | naki / shel atsmo | adjectif / locution possessive | 2025-11-07 |
 | [spécial](vocabulaire/special.md) | מְיֻחָד | meyoukhad | adjectif (Pou'al) | 2025-11-04 |
 | [recevoir](vocabulaire/recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
 | [repas](vocabulaire/repas-arouhat.md) | אֲרוּחָה / אֲרוּחַת | arouḥah / arouḥat | nom (féminin) - forme absolue/construite | 2025-11-05 |
