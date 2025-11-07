@@ -44,6 +44,7 @@
 | [être prêt](vocabulaire/etre-pret.md) | מוּכָן | moukhan | adjectif / verbe (לְהִתְכּוֹנֵן - Hitpa'el, לְהָכִין - Hif'il) | 2025-11-04 |
 | [film](vocabulaire/film.md) | סֶרֶט | seret | nom (masculin) | 2025-11-07 |
 | [fleur](vocabulaire/fleur.md) | פֶּרַח | pérakh | nom (masculin) | 2025-11-07 |
+| [foncé](vocabulaire/fonce.md) | כֵּהֶה | kéhé | adjectif | 2025-11-07 |
 | [internet](vocabulaire/internet.md) | אִינְטֶרְנֶט | internet | nom (masculin) | 2025-11-05 |
 | [invitation](vocabulaire/invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](vocabulaire/invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
@@ -59,6 +60,7 @@
 | [message](vocabulaire/message.md) | הוֹדָעָה | hoda'ah | nom (féminin) | 2025-11-02 |
 | [montagne](vocabulaire/montagne.md) | הַר | har | nom (masculin) | 2025-11-05 |
 | [mot de passe](vocabulaire/mot-de-passe.md) | סִסְמָה | sismah | nom (féminin) | 2025-11-05 |
+| [mots interrogatifs](vocabulaire/mots-interrogatifs.md) | מִלּוֹת שְׁאֵלָה | milot she'ela | pronoms et adjectifs interrogatifs | 2025-11-07 |
 | [papier](vocabulaire/papier.md) | נְיָר | neyar | nom (masculin) | 2025-11-03 |
 | [partir](vocabulaire/partir.md) | לָצֵאת | latset | verbe (Pa'al) | 2025-11-02 |
 | [possibilité](vocabulaire/possibilite.md) | אֶפְשָׁרוּת | efsharout | nom (féminin) | 2025-11-03 |

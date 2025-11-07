@@ -76,6 +76,17 @@ Si le nom porte l'article défini ה (ha-), l'adjectif doit aussi le porter :
 **פוֹנֶטִיקָה :** sekhel bahir
 **צָרְפָתִית :** Esprit clair/vif
 
+## Antonyme : foncé (כֵּהֶה)
+
+**Relation :**
+- **בָּהִיר** (bahir) = clair, lumineux ↔ **כֵּהֶה** (kéhé) = foncé, sombre
+
+Pour décrire l'intensité des couleurs, utilisez :
+- Couleur claire : צֶבַע בָּהִיר (tseva bahir)
+- Couleur foncée : צֶבַע כֵּהֶה (tseva kéhé)
+
+**Voir aussi :** [foncé](fonce.md) pour toutes les formes et exemples.
+
 ## Mots apparentés utiles
 
 | Hébreu | Phonétique | Français |
@@ -85,6 +96,7 @@ Si le nom porte l'article défini ה (ha-), l'adjectif doit aussi le porter :
 | בָּרוּר | barour | clair, évident (synonyme) |
 | בְּרוּרָה | beroura | claire, évidente (fém.) |
 | בָּהִיר עוֹר | bahir or | à la peau claire |
+| כֵּהֶה | kéhé | foncé, sombre (antonyme) |
 
 ## Proposition de carte Anki
 
