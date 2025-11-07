@@ -67,6 +67,7 @@
 | [ressasser](vocabulaire/ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
 | [rester](vocabulaire/rester.md) | לְהִשָּׁאֵר | lehisha'er | verbe (Nif'al) | 2025-11-06 |
 | [sans](vocabulaire/sans.md) | בְּלִי | bli | préposition | 2025-11-05 |
+| [sans fil](sans-fil.md) | אַלְחוּטִי | alkhouti | adjectif | 2025-11-06 |
 | [se lever](vocabulaire/se-lever.md) | לָקוּם | lakoum | verbe (Pa'al) | 2025-11-05 |
 | [se positionner](vocabulaire/se-positionner.md) | לְהִתְמַקֵּם | lehitmakém | verbe (Hitpa'el) | 2025-11-04 |
 | [se situer](vocabulaire/se-situer.md) | לְהִמָּצֵא / לְהִתְמַקֵּם | lehimatsé / lehitmakem | verbe (Nif'al / Hitpa'el) | 2025-11-02 |
