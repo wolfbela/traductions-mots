@@ -48,6 +48,7 @@
 | [internet](vocabulaire/internet.md) | אִינְטֶרְנֶט | internet | nom (masculin) | 2025-11-05 |
 | [invitation](vocabulaire/invitation.md) | הַזְמָנָה | hazmana | nom (féminin) | 2025-11-03 |
 | [invité](vocabulaire/invite.md) | אוֹרֵחַ | oréakh | nom (masculin) | 2025-11-02 |
+| [limite](vocabulaire/limite.md) | גְּבוּל / מֶגְבָּלָה | gvoul / megbalah | nom (masculin / féminin) | 2025-11-07 |
 | [lit](vocabulaire/lit.md) | מִטָּה | mitah | nom (féminin) | 2025-11-07 |
 | [livrer / expédier](vocabulaire/livrer-expedier.md) | לְשַׁלֵּחַ | leshalé'akh | verbe (Pi'el) | 2025-11-05 |
 | [neige](vocabulaire/neige.md) | שֶׁלֶג | shèleg | nom (masculin) | 2025-11-04 |
@@ -69,6 +70,7 @@
 | [propre](vocabulaire/propre.md) | נָקִי / שֶׁל עַצְמוֹ | naki / shel atsmo | adjectif / locution possessive | 2025-11-07 |
 | [spécial](vocabulaire/special.md) | מְיֻחָד | meyoukhad | adjectif (Pou'al) | 2025-11-04 |
 | [recevoir](vocabulaire/recevoir.md) | לְקַבֵּל | lekabel | verbe (Pi'el) | 2025-11-02 |
+| [réunion](vocabulaire/reunion.md) | פְּגִישָׁה | peguisha | nom (féminin) | 2025-11-07 |
 | [repas](vocabulaire/repas-arouhat.md) | אֲרוּחָה / אֲרוּחַת | arouḥah / arouḥat | nom (féminin) - forme absolue/construite | 2025-11-05 |
 | [réponse](vocabulaire/reponse.md) | תְּשׁוּבָה | teshouva | nom (féminin) | 2025-11-02 |
 | [ressasser](vocabulaire/ressasser.md) | לְהַגּוֹת | lehagot | verbe (Pa'al) | 2025-11-01 |
